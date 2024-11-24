@@ -5,4 +5,6 @@ public class B {
     int testconflict;
     int mergeconflict;
     int rebase;
+
+    int newChange;
 }
